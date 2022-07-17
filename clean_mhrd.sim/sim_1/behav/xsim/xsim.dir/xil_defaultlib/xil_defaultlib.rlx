@@ -1,0 +1,9 @@
+0.6
+2019.2
+Dec  5 2019
+05:06:03
+C:/XilinxProjects/clean_mhrd/clean_mhrd.sim/sim_1/behav/xsim/glbl.v,1573089660,verilog,,,,glbl,,,,,,,,
+C:/XilinxProjects/clean_mhrd/clean_mhrd.srcs/sim_1/imports/test/cpu_test.sv,1652793084,systemVerilog,,,,cpu_test,,,,,,,,
+C:/XilinxProjects/clean_mhrd/clean_mhrd.srcs/sources_1/imports/srcs/alu16b.sv,1652793084,systemVerilog,,C:/XilinxProjects/clean_mhrd/clean_mhrd.srcs/sources_1/imports/srcs/cpu.sv,,ALU16B,,,,,,,,
+C:/XilinxProjects/clean_mhrd/clean_mhrd.srcs/sources_1/imports/srcs/cpu.sv,1652793084,systemVerilog,,C:/XilinxProjects/clean_mhrd/clean_mhrd.srcs/sources_1/imports/srcs/decoder.sv,,CPU,,,,,,,,
+C:/XilinxProjects/clean_mhrd/clean_mhrd.srcs/sources_1/imports/srcs/decoder.sv,1652793084,systemVerilog,,C:/XilinxProjects/clean_mhrd/clean_mhrd.srcs/sim_1/imports/test/cpu_test.sv,,DECODER,,,,,,,,
